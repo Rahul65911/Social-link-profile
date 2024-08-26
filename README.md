@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Rahul65911/Social-link-profile)
-- Live Site URL: [Add live site URL here](https://rahul65911.github.io/Social-link-profile/)
+- Solution URL: [solution](https://github.com/Rahul65911/Social-link-profile)
+- Live Site URL: [live site](https://rahul65911.github.io/Social-link-profile/)
 
 ### Built with
 
